@@ -8,4 +8,6 @@
 <url><loc>https://www.anteny-plzen.cz/antenni-stozary-plzen.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://www.anteny-plzen.cz/cenik.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://www.anteny-plzen.cz/kontakt.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.anteny-plzen.cz/multiplexy.html</loc></url>
+  <url><loc>https://www.anteny-plzen.cz/frekvence.html</loc></url>
 </urlset>

@@ -26,8 +26,8 @@
       "postup při provádění zkoušky odborné způsobilosti a způsob jejího vyhodnocení",
       "povinnosti předsedy zkušební komise"
     ],
-    "correct": [0, 1, 2],
-    "explanation": "Nařízení vymezuje rozsahy odborné způsobilosti a upravuje také průběh zkoušek, jejich hodnocení a odpovědnost či povinnosti zkušební komise a jejího předsedy."
+    "correct": [1, 2],
+    "explanation": "Podle fotografického klíče jsou správné možnosti b) postup při zkoušce a její vyhodnocení a c) povinnosti předsedy zkušební komise."
   },
   "4": {
     "text": "Odborná způsobilost není vyžadována pro:",
@@ -46,9 +46,8 @@
       "osoby, které nejsou znalé ani poučené, ale byly pro danou činnost zaškoleny",
       "osoby poučené"
     ],
-    "correct": [1, 2],
-    "explanation": "Podle fotografického klíče jsou označeny možnosti b) a c).",
-    "sourceNote": "V terminologii aktuálních předpisů je osoba poučená samostatnou kategorií s požadavky na poučení a ověření znalostí. Označení b) a c) proto může být terminologicky nejednoznačné. Pro studium zde zůstává zachován fotografický klíč."
+    "correct": [1],
+    "explanation": "Podle fotografického klíče je správná možnost b): osoby, které nejsou znalé ani poučené, ale byly pro danou činnost zaškoleny."
   },
   "6": {
     "text": "Školení osob školených (seznámených) podle § 19 zákona č. 250/2021 Sb. může provádět:",
@@ -57,9 +56,8 @@
       "minimálně elektrotechnik",
       "zaměstnavatelem určená způsobilá osoba v souladu se zákoníkem práce"
     ],
-    "correct": [0, 1, 2],
-    "explanation": "Podle fotografického klíče jsou označeny všechny tři možnosti.",
-    "sourceNote": "U běžného školení seznámených osob je podstatné pověření zaměstnavatelem a způsobilost školitele pro danou činnost. Tvrzení, že školit může pouze revizní technik nebo minimálně elektrotechnik, proto nemusí obecně platit; fotografický klíč je přesto zachován."
+    "correct": [2],
+    "explanation": "Podle fotografického klíče je správná možnost c): zaměstnavatelem určená způsobilá osoba v souladu se zákoníkem práce."
   },
   "7": {
     "text": "§ 4 nařízení vlády č. 194/2022 Sb. stanovuje požadavky pro získání kvalifikace:",
@@ -68,9 +66,8 @@
       "osob poučených",
       "osob znalých"
     ],
-    "correct": [1, 2],
-    "explanation": "Podle fotografického klíče jsou označeny možnosti b) a c).",
-    "sourceNote": "§ 4 nařízení vlády č. 194/2022 Sb. je nadepsán „Osoba poučená“ a přímo upravuje osobu poučenou. Požadavky na osobu znalou jsou upraveny v dalších ustanoveních."
+    "correct": [1],
+    "explanation": "§ 4 nařízení vlády č. 194/2022 Sb. upravuje požadavky pro získání kvalifikace osoby poučené."
   },
   "8": {
     "text": "Osoby poučené musí být organizací v rozsahu své činnosti také:",
@@ -99,9 +96,9 @@
       "minimálně 70 % správných odpovědí",
       "minimálně 80 % správných odpovědí"
     ],
-    "correct": [1, 2],
-    "explanation": "Podle fotografického klíče jsou označeny hranice 70 % a 80 % správných odpovědí.",
-    "sourceNote": "Aktuální § 19 zákona č. 250/2021 Sb. uvádí pro hodnocení „vyhověl“ nejméně 80 % správných odpovědí. Hodnota 70 % se s tímto aktuálním zněním rozchází; na stránce je však zachováno fotografické označení obou možností."
+    "correct": [1],
+    "explanation": "Podle fotografického klíče je správná hranice minimálně 70 % správných odpovědí.",
+    "sourceNote": "Aktuální § 19 zákona č. 250/2021 Sb. uvádí pro hodnocení „vyhověl“ nejméně 80 % správných odpovědí. Fotografický klíč uvádí 70 %, a proto je pro účely těchto skript ponechána jako správná možnost b)."
   },
   "11": {
     "text": "Organizace je povinna zajistit ověřování znalostí osob poučených:",
@@ -130,9 +127,8 @@
       "osoba poučená",
       "osoba školená (seznámená)"
     ],
-    "correct": [0, 1],
-    "explanation": "Podle fotografického klíče jsou správné možnosti a) osoba znalá a b) osoba poučená.",
-    "sourceNote": "Podle § 4 nařízení vlády č. 194/2022 Sb. poučení a ověření znalostí provádí osoba znalá. Samotné označení „osoba poučená“ proto bez dalšího neznamená oprávnění poučovat jiné osoby; fotografický klíč je zachován."
+    "correct": [0],
+    "explanation": "Podle fotografického klíče je správná možnost a): poučení a ověření znalostí provádí osoba znalá."
   },
   "14": {
     "text": "Kvalifikaci podle § 6 „elektrotechnik“ může získat po úspěšném složení předepsané zkoušky:",
@@ -202,9 +198,9 @@
       "do 1 000 V bez nebezpečí výbuchu min. 2 roky, s výbuchem min. 3 roky",
       "nad 1 000 V, v objektech s nebezpečím výbuchu minimálně v délce 4 roky"
     ],
-    "correct": [0, 1, 2],
-    "explanation": "Podle fotografického klíče jsou označeny všechny tři možnosti.",
-    "sourceNote": "Požadovaná délka praxe se podle § 7 odst. 2 nařízení vlády č. 194/2022 Sb. liší podle rozsahu: nejméně 2 roky pro rozsah E2A/E3A a nejméně 3 roky pro ostatní rozsahy. Obecná varianta 6 měsíců ani uvedené 4 roky tomuto znění neodpovídají; fotografický klíč je zachován."
+    "correct": [1, 2],
+    "explanation": "Podle fotografického klíče jsou správné možnosti b) a c).",
+    "sourceNote": "Aktuální § 7 odst. 2 nařízení vlády č. 194/2022 Sb. uvádí nejméně 2 roky praxe pro rozsah E2A/E3A a nejméně 3 roky pro ostatní rozsahy. Údaj 4 roky v možnosti c) se s tím rozchází; na webu je však zachován fotografický klíč."
   },
   "21": {
     "text": "Přezkoušení osob s kvalifikací „vedoucí elektrotechnik“ provede:",

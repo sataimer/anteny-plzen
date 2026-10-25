@@ -211,5 +211,105 @@
     ],
     "correct": [2],
     "explanation": "Vedoucího elektrotechnika přezkušuje tříčlenná komise, jejímž předsedou je revizní technik."
+  },
+  "22": {
+    "text": "O úspěšném složení zkoušky obdrží přezkoušená osoba s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“:",
+    "answers": [
+      "doklad o úspěšném složení zkoušky",
+      "osvědčení o úspěšném složení zkoušky",
+      "certifikát o úspěšném složení zkoušky"
+    ],
+    "correct": [0],
+    "explanation": "Podle fotografického klíče je správná možnost a): doklad o úspěšném složení zkoušky."
+  },
+  "23": {
+    "text": "Doklad o úspěšném složení zkoušky osob s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“ má platnost:",
+    "answers": [
+      "1 rok ode dne vydání",
+      "3 roky ode dne vydání",
+      "5 roků ode dne vydání"
+    ],
+    "correct": [1],
+    "explanation": "Podle fotografického klíče má doklad platnost tři roky ode dne vydání."
+  },
+  "24": {
+    "text": "Pokud doklad o úspěšném složení zkoušky osoby s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“ pozbude platnost, považuje se osoba za:",
+    "answers": [
+      "osobu znalou",
+      "osobu poučenou",
+      "osobu školenou (seznámenou)"
+    ],
+    "correct": [1],
+    "explanation": "Po pozbytí platnosti dokladu se podle fotografického klíče osoba považuje za osobu poučenou."
+  },
+  "25": {
+    "text": "Předseda zkušební komise zajistí uchování protokolu o zkoušce:",
+    "answers": [
+      "po dobu nejméně 6 let, nejdéle však 7 let",
+      "pouze do příštího přezkoušení",
+      "po dobu nejméně 10 roků"
+    ],
+    "correct": [0],
+    "explanation": "Podle fotografického klíče je správná možnost a): nejméně šest let, nejdéle sedm let."
+  },
+  "26": {
+    "text": "Kvalifikací „elektrotechnik“ je označována:",
+    "answers": [
+      "osoba znalá pro řízení činnosti dodavatelským způsobem",
+      "osoba znalá pro samostatnou činnost",
+      "osoba znalá pro řízení činnosti"
+    ],
+    "correct": [1],
+    "explanation": "Elektrotechnik je podle fotografického klíče osoba znalá pro samostatnou činnost."
+  },
+  "27": {
+    "text": "Kvalifikací „vedoucí elektrotechnik“ je označována:",
+    "answers": [
+      "osoba poučená",
+      "osoba znalá pro samostatnou činnost",
+      "osoba znalá pro řízení činnosti"
+    ],
+    "correct": [2],
+    "explanation": "Vedoucí elektrotechnik je podle fotografického klíče osoba znalá pro řízení činnosti."
+  },
+  "28": {
+    "text": "Osoba s kvalifikací „vedoucí elektrotechnik“ může provádět:",
+    "answers": [
+      "řízení činnosti a řízení provozu vyhrazených elektrických zařízení",
+      "projektování vyhrazených elektrických zařízení, které není předmětem autorizace",
+      "revize vyhrazených elektrických zařízení"
+    ],
+    "correct": [0, 1],
+    "explanation": "Fotografický klíč uvádí řízení činnosti a provozu a projektování v rozsahu, který není předmětem autorizace."
+  },
+  "29": {
+    "text": "Aby mohl být výsledek písemné části zkoušky vyhodnocen stupněm „vyhověl“, musí mít zkoušený:",
+    "answers": [
+      "minimálně 70 % správných odpovědí",
+      "minimálně 80 % správných odpovědí",
+      "všechny odpovědi správně"
+    ],
+    "correct": [1],
+    "explanation": "Podle fotografického klíče je nutných minimálně 80 % správných odpovědí."
+  },
+  "30": {
+    "text": "Aby mohl být výsledek ústní části zkoušky vyhodnocen stupněm „vyhověl“, musí mít zkoušený:",
+    "answers": [
+      "minimálně 50 % správných odpovědí",
+      "minimálně 70 % správných odpovědí",
+      "minimálně 80 % správných odpovědí"
+    ],
+    "correct": [2],
+    "explanation": "Podle fotografického klíče je nutných minimálně 80 % správných odpovědí."
+  },
+  "31": {
+    "text": "Zkoušení a přezkoušení revizních techniků provádí:",
+    "answers": [
+      "oblastní inspektorát práce",
+      "tříčlenná zkušební komise",
+      "pověřená organizace (Technická inspekce České republiky – TIČR)"
+    ],
+    "correct": [1, 2],
+    "explanation": "Podle fotografického klíče zkoušení provádí tříčlenná zkušební komise pověřené organizace TIČR."
   }
 }

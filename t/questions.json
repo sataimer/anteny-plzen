@@ -27,7 +27,7 @@
       "povinnosti předsedy zkušební komise"
     ],
     "correct": [1, 2],
-    "explanation": "Podle fotografického klíče jsou správné možnosti b) postup při zkoušce a její vyhodnocení a c) povinnosti předsedy zkušební komise."
+    "explanation": "Nařízení neurčuje jen požadovanou kvalifikaci, ale také pravidla zkoušky: jak probíhá, jak se hodnotí a za co odpovídá předseda zkušební komise."
   },
   "4": {
     "text": "Odborná způsobilost není vyžadována pro:",
@@ -47,7 +47,7 @@
       "osoby poučené"
     ],
     "correct": [1],
-    "explanation": "Podle fotografického klíče je správná možnost b): osoby, které nejsou znalé ani poučené, ale byly pro danou činnost zaškoleny."
+    "explanation": "Školená neboli seznámená osoba nemá elektrotechnickou kvalifikaci osoby znalé ani rozsah oprávnění osoby poučené. Je pouze zaškolena pro konkrétní bezpečnou činnost, například běžnou obsluhu určeného spotřebiče."
   },
   "6": {
     "text": "Školení osob školených (seznámených) podle § 19 zákona č. 250/2021 Sb. může provádět:",
@@ -57,7 +57,7 @@
       "zaměstnavatelem určená způsobilá osoba v souladu se zákoníkem práce"
     ],
     "correct": [2],
-    "explanation": "Podle fotografického klíče je správná možnost c): zaměstnavatelem určená způsobilá osoba v souladu se zákoníkem práce."
+    "explanation": "Školitele určuje zaměstnavatel a musí jít o osobu způsobilou vysvětlit rizika konkrétní práce. Nemusí to být automaticky revizní technik; rozsah školení se řídí činností a pracovištěm."
   },
   "7": {
     "text": "§ 4 nařízení vlády č. 194/2022 Sb. stanovuje požadavky pro získání kvalifikace:",
@@ -97,7 +97,7 @@
       "minimálně 80 % správných odpovědí"
     ],
     "correct": [1],
-    "explanation": "Podle fotografického klíče je správná hranice minimálně 70 % správných odpovědí.",
+    "explanation": "Hranice vyjadřuje minimální úspěšnost požadovanou skripty pro hodnocení ústní části. Například ze 10 hodnocených odpovědí by 70 % znamenalo alespoň 7 správných.",
     "sourceNote": "Aktuální § 19 zákona č. 250/2021 Sb. uvádí pro hodnocení „vyhověl“ nejméně 80 % správných odpovědí. Fotografický klíč uvádí 70 %, a proto je pro účely těchto skript ponechána jako správná možnost b)."
   },
   "11": {
@@ -118,7 +118,7 @@
       "musí podepsat osoba poučená i osoba, která poučení a ověření znalostí provedla"
     ],
     "correct": [0, 2],
-    "explanation": "Podle fotografického klíče zápis vyhotovuje osoba znalá, která poučení a ověření provedla, a podepisuje jej také poučená osoba."
+    "explanation": "Zápis dokládá, kdo poučení provedl, koho poučil, v jakém rozsahu a s jakým výsledkem. Podpis obou osob potvrzuje provedení poučení i ověření znalostí."
   },
   "13": {
     "text": "Poučení a ověření znalostí osob poučených pro práce na elektrických zařízeních provádí pověřená osoba, a to:",
@@ -128,7 +128,7 @@
       "osoba školená (seznámená)"
     ],
     "correct": [0],
-    "explanation": "Podle fotografického klíče je správná možnost a): poučení a ověření znalostí provádí osoba znalá."
+    "explanation": "Poučení musí provést osoba znalá, protože musí odborně posoudit elektrická rizika, vymezit dovolené činnosti a ověřit, že jim poučovaná osoba rozumí."
   },
   "14": {
     "text": "Kvalifikaci podle § 6 „elektrotechnik“ může získat po úspěšném složení předepsané zkoušky:",
@@ -138,7 +138,7 @@
       "osoba, která má praxi stanovenou místním provozním bezpečnostním předpisem"
     ],
     "correct": [1, 2],
-    "explanation": "Fotografický klíč označuje odbornou kvalifikaci v oboru elektro a praxi určenou místním provozním bezpečnostním předpisem."
+    "explanation": "Elektrotechnik potřebuje odborné elektrotechnické vzdělání a před zahájením samostatné práce také praxi odpovídající charakteru činnosti. Její potřebný rozsah stanoví organizace podle rizik pracoviště."
   },
   "15": {
     "text": "Zaškolení a zkoušky osob s kvalifikací „elektrotechnik“:",
@@ -158,7 +158,7 @@
       "zajistit nejméně jednou za tři roky přezkoušení"
     ],
     "correct": [2],
-    "explanation": "Fotografický klíč stanoví přezkoušení nejméně jednou za tři roky."
+    "explanation": "Pravidelné přezkoušení ověřuje, že si elektrotechnik udržuje znalost bezpečnostních pravidel a změn předpisů. Tříletá lhůta je nejdelší; organizace může podle rizika stanovit kratší."
   },
   "17": {
     "text": "Přezkoušení osob s kvalifikací „elektrotechnik“ provede:",
@@ -168,7 +168,7 @@
       "revizní technik samostatně, komise není nutná"
     ],
     "correct": [0, 1],
-    "explanation": "Podle fotografického klíče může přezkoušení provést tříčlenná komise vedená revizním technikem nebo přizvaná odborně znalá osoba s odpovídajícím předmětem podnikání.",
+    "explanation": "Zkouška má ověřit znalosti nestranně a v potřebném odborném rozsahu. Proto se uplatňuje zkušební komise s předsedou, který má kvalifikaci revizního technika, a lze zapojit odborníka na danou oblast.",
     "sourceNote": "Nařízení vlády č. 194/2022 Sb. vyžaduje tříčlennou zkušební komisi; přizvaná odborně způsobilá osoba může být jejím členem, nikoli komisi sama nahradit. Fotografický klíč je zachován."
   },
   "18": {
@@ -179,7 +179,7 @@
       "nemusí pořizovat žádný protokol o zkoušce"
     ],
     "correct": [1],
-    "explanation": "Předseda komise pořizuje protokol o průběhu a obsahu zkoušky."
+    "explanation": "Protokol je dokladem o tématech, průběhu a výsledku zkoušky. Umožňuje později prokázat, kdo byl zkoušen, kým a v jakém rozsahu."
   },
   "19": {
     "text": "Osoby znalé jsou osoby, které splňují kvalifikaci podle těchto paragrafů nařízení vlády č. 194/2022 Sb.:",
@@ -199,7 +199,7 @@
       "nad 1 000 V, v objektech s nebezpečím výbuchu minimálně v délce 4 roky"
     ],
     "correct": [1, 2],
-    "explanation": "Podle fotografického klíče jsou správné možnosti b) a c).",
+    "explanation": "Požadovaná praxe roste s náročností a rizikem zařízení. Práce do 1 000 V bez nebezpečí výbuchu vyžaduje kratší praxi než zařízení vyššího napětí nebo provozy s nebezpečím výbuchu.",
     "sourceNote": "Aktuální § 7 odst. 2 nařízení vlády č. 194/2022 Sb. uvádí nejméně 2 roky praxe pro rozsah E2A/E3A a nejméně 3 roky pro ostatní rozsahy. Údaj 4 roky v možnosti c) se s tím rozchází; na webu je však zachován fotografický klíč."
   },
   "21": {
@@ -220,7 +220,7 @@
       "certifikát o úspěšném složení zkoušky"
     ],
     "correct": [0],
-    "explanation": "Podle fotografického klíče je správná možnost a): doklad o úspěšném složení zkoušky."
+    "explanation": "Po úspěšné zkoušce se vydává doklad, který prokazuje dosaženou odbornou způsobilost, její rozsah a dobu platnosti. Nejde o obecný certifikát bez vazby na předepsanou zkoušku."
   },
   "23": {
     "text": "Doklad o úspěšném složení zkoušky osob s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“ má platnost:",
@@ -230,7 +230,7 @@
       "5 roků ode dne vydání"
     ],
     "correct": [1],
-    "explanation": "Podle fotografického klíče má doklad platnost tři roky ode dne vydání."
+    "explanation": "Tříletá platnost zajišťuje pravidelné ověřování znalostí. Před jejím uplynutím musí pracovník absolvovat další přezkoušení, chce-li pokračovat ve stejném rozsahu činností."
   },
   "24": {
     "text": "Pokud doklad o úspěšném složení zkoušky osoby s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“ pozbude platnost, považuje se osoba za:",
@@ -240,7 +240,7 @@
       "osobu školenou (seznámenou)"
     ],
     "correct": [1],
-    "explanation": "Po pozbytí platnosti dokladu se podle fotografického klíče osoba považuje za osobu poučenou."
+    "explanation": "Po skončení platnosti dokladu už osoba nesmí samostatně vykonávat činnosti elektrotechnika. Do nové zkoušky má jen rozsah činností odpovídající osobě poučené."
   },
   "25": {
     "text": "Předseda zkušební komise zajistí uchování protokolu o zkoušce:",
@@ -250,7 +250,7 @@
       "po dobu nejméně 10 roků"
     ],
     "correct": [0],
-    "explanation": "Podle fotografického klíče je správná možnost a): nejméně šest let, nejdéle sedm let."
+    "explanation": "Uchování protokolu umožňuje doložit průběh a výsledek zkoušky i po skončení tříleté platnosti dokladu, například při kontrole nebo šetření pracovního úrazu."
   },
   "26": {
     "text": "Kvalifikací „elektrotechnik“ je označována:",
@@ -260,7 +260,7 @@
       "osoba znalá pro řízení činnosti"
     ],
     "correct": [1],
-    "explanation": "Elektrotechnik je podle fotografického klíče osoba znalá pro samostatnou činnost."
+    "explanation": "Elektrotechnik je osoba znalá, která po zaškolení a zkoušce může samostatně pracovat v rozsahu své kvalifikace. Neznamená to automaticky oprávnění řídit jiné pracovníky."
   },
   "27": {
     "text": "Kvalifikací „vedoucí elektrotechnik“ je označována:",
@@ -270,7 +270,7 @@
       "osoba znalá pro řízení činnosti"
     ],
     "correct": [2],
-    "explanation": "Vedoucí elektrotechnik je podle fotografického klíče osoba znalá pro řízení činnosti."
+    "explanation": "Vedoucí elektrotechnik má vedle vlastní odbornosti oprávnění řídit elektrotechnické činnosti a provoz. Odpovídá například za organizaci práce a stanovení bezpečného postupu týmu."
   },
   "28": {
     "text": "Osoba s kvalifikací „vedoucí elektrotechnik“ může provádět:",
@@ -280,7 +280,7 @@
       "revize vyhrazených elektrických zařízení"
     ],
     "correct": [0, 1],
-    "explanation": "Fotografický klíč uvádí řízení činnosti a provozu a projektování v rozsahu, který není předmětem autorizace."
+    "explanation": "Vedoucí elektrotechnik může řídit práci a provoz vyhrazených zařízení a projektovat v rozsahu, pro který zákon nevyžaduje autorizaci. Revize je však samostatná kvalifikace revizního technika."
   },
   "29": {
     "text": "Aby mohl být výsledek písemné části zkoušky vyhodnocen stupněm „vyhověl“, musí mít zkoušený:",
@@ -290,7 +290,7 @@
       "všechny odpovědi správně"
     ],
     "correct": [1],
-    "explanation": "Podle fotografického klíče je nutných minimálně 80 % správných odpovědí."
+    "explanation": "Písemná část prověřuje znalosti napříč stanoveným rozsahem. Při 20 otázkách znamená hranice 80 % nejméně 16 správných odpovědí."
   },
   "30": {
     "text": "Aby mohl být výsledek ústní části zkoušky vyhodnocen stupněm „vyhověl“, musí mít zkoušený:",
@@ -300,7 +300,7 @@
       "minimálně 80 % správných odpovědí"
     ],
     "correct": [2],
-    "explanation": "Podle fotografického klíče je nutných minimálně 80 % správných odpovědí."
+    "explanation": "Ústní část ověřuje nejen zapamatování, ale i schopnost bezpečně uvažovat nad konkrétní situací. Z deseti hodnocených odpovědí představuje 80 % alespoň osm správných."
   },
   "31": {
     "text": "Zkoušení a přezkoušení revizních techniků provádí:",
@@ -310,26 +310,26 @@
       "pověřená organizace (Technická inspekce České republiky – TIČR)"
     ],
     "correct": [1, 2],
-    "explanation": "Podle fotografického klíče zkoušení provádí tříčlenná zkušební komise pověřené organizace TIČR."
+    "explanation": "Revizní technik kontroluje bezpečnost vyhrazených zařízení, proto jeho kvalifikaci neověřuje běžný zaměstnavatel. Zkoušku zajišťuje pověřená organizace TIČR prostřednictvím tříčlenné komise."
   },
-  "32": {"text":"Projektování vyhrazených elektrických zařízení, které není předmětem autorizace, může provádět:","answers":["vedoucí elektrotechnik","elektrotechnik","osoba poučená"],"correct":[0],"explanation":"Podle fotografického klíče je správně a) vedoucí elektrotechnik."},
-  "33": {"text":"Učitelé, kteří používají při výuce na školách elektrická zařízení pod napětím, jsou v používání zařízení zaškoleni a jejich znalost je nejméně jednou za tři roky ověřována, se považují pro tuto činnost za:","answers":["osoby poučené","osoby s kvalifikací „elektrotechnik“","osoby s kvalifikací „vedoucí elektrotechnik“"],"correct":[1],"explanation":"Podle fotografického klíče je správně b)."},
-  "34": {"text":"Pracovníci výzkumných a vývojových ústavů, kteří mají vysokoškolské vzdělání, v rámci výuky složili zkoušky z elektrotechniky, elektroniky nebo fyziky a vykonávají experimentální práci na vymezených vědeckých nebo vývojových pracovištích, se považují v rámci těchto pracovišť za:","answers":["osoby s kvalifikací „elektrotechnik“","osoby s kvalifikací „vedoucí elektrotechnik“","osoby s kvalifikací „revizní technik“"],"correct":[0],"explanation":"Podle fotografického klíče je správně a)."},
-  "35": {"text":"Absolventi přírodovědecké fakulty vysoké školy v oboru fyziky, kteří pracují jako asistenti laboratoří škol všech stupňů a jejichž znalost je nejméně jednou za tři roky ověřována, se považují na svých pracovištích za:","answers":["osoby s kvalifikací „elektrotechnik“","osoby s kvalifikací „vedoucí elektrotechnik“","osoby s kvalifikací „revizní technik“"],"correct":[1],"explanation":"Podle fotografického klíče je správně b)."},
-  "36": {"text":"Ověřování znalostí bezpečnostních předpisů souvisejících s činností učitelů, kteří používají při výuce na školách elektrická zařízení pod napětím, provede:","answers":["dvoučlenná zkušební komise","tříčlenná zkušební komise, jejímž předsedou musí být revizní technik","revizní technik samostatně, komise není nutná"],"correct":[1],"explanation":"Podle fotografického klíče je správně b)."},
-  "37": {"text":"Osoba poučená může, pokud je to v souladu s místními provozními bezpečnostními předpisy, provádět:","answers":["práci podle pokynů na elektrických zařízeních do 1 kV pod napětím","práci s dohledem na elektrických zařízeních do 1 kV pod napětím","samostatnou obsluhu elektrických zařízení bez omezení napětí"],"correct":[2],"explanation":"Podle fotografického klíče je správně c)."},
-  "38": {"text":"Osoba poučená může, pokud je to v souladu s místními provozními bezpečnostními předpisy, provádět:","answers":["práci podle pokynů na elektrických zařízeních vysokého napětí bez napětí","práci s dohledem na elektrických zařízeních vysokého napětí bez napětí","práci s dohledem na elektrických zařízeních vysokého napětí pod napětím"],"correct":[1],"explanation":"Podle fotografického klíče je správně b)."},
-  "39": {"text":"Ověření znalostí zkouškou pro práce na elektrickém zařízení provozovatele přenosové a distribuční soustavy může provést:","answers":["revizní technik samostatně (komise není nutná)","tříčlenná zkušební komise, jejímž předsedou musí být vždy revizní technik","tříčlenná zkušební komise, jejímž předsedou může být odpovědná osoba příslušného provozovatele s kvalifikací minimálně „vedoucí elektrotechnik“"],"correct":[2],"explanation":"Podle fotografického klíče je správně c)."},
-  "40": {"text":"Osoby samostatně výdělečně činné:","answers":["potřebují doklad o odborné způsobilosti pouze při žádosti o živnost, pak již ne","si musí zajistit zkoušky odborné způsobilosti samy pro sebe","pro sebe nepotřebují zkoušky odborné způsobilosti"],"correct":[1],"explanation":"Podle fotografického klíče je správně b)."},
-  "41": {"text":"Doklad o úspěšném složení zkoušky odborné způsobilosti:","answers":["se již nevystavuje","vystavuje vždy dodatečně až zaměstnavatel, po předložení protokolu o zkoušce","vystavuje předseda zkušební komise"],"correct":[2],"explanation":"Podle fotografického klíče je správně c)."},
-  "42":{"text":"Rozsah odborné způsobilosti se stanovuje podle:","answers":["věku uchazeče","rozsahu napětí – buď do 1 kV AC a 1,5 kV DC, nebo bez omezení napětí","druhu – buď v objektech bez nebezpečí výbuchu, nebo s nebezpečím výbuchu"],"correct":[1,2],"explanation":"Podle klíče b), c)."},
-  "43":{"text":"Minimální praxi pro osobu s kvalifikací „elektrotechnik“ stanoví:","answers":["odpovědná osoba v souladu s místním provozním bezpečnostním předpisem","tabulka v příloze nařízení vlády č. 194/2022 Sb.","vždy pouze předseda zkušební komise"],"correct":[0],"explanation":"Podle klíče a)."},
-  "44":{"text":"Pokud osoba s kvalifikací „elektrotechnik“ nemá žádnou praxi:","answers":["nemůže tuto kvalifikaci získat","musí po dobu nejméně 1 roku pracovat s dohledem osoby znalé, která má praxi minimálně 2 roky","nesmí provádět práce pod napětím"],"correct":[1],"explanation":"Podle klíče b)."},
-  "45":{"text":"Podle nařízení vlády č. 194/2022 Sb. jsou za osoby znalé považovány:","answers":["elektrotechnik – osoba znalá pro samostatnou činnost","vedoucí elektrotechnik – osoba znalá pro řízení činnosti","revizní technik"],"correct":[0,1,2],"explanation":"Podle klíče a), b), c)."},
-  "46":{"text":"Ústní pohovor při zkoušce z odborné způsobilosti k výkonu činností v elektrotechnice má být zaměřen:","answers":["na znalosti základů elektrotechniky v rozsahu středoškolského vzdělání","na výsledky testu a případně na chyby učiněné v testu","na odbornou problematiku podle rozsahu a zaměření zkoušené osoby"],"correct":[1,2],"explanation":"Podle klíče b), c)."},
-  "47":{"text":"Osoba s kvalifikací „vedoucí elektrotechnik“ může vykonávat:","answers":["veškeré činnosti, které může vykonávat elektrotechnik","řízení činností, řízení provozu a projektování vyhrazených elektrických zařízení, které není předmětem autorizace","revize elektrických zařízení"],"correct":[0,1],"explanation":"Podle klíče a), b)."},
-  "48":{"text":"Výsledek zkoušky z odborné způsobilosti k výkonu činností v elektrotechnice se hodnotí stupněm:","answers":["uspěl nebo neuspěl","vyhověl nebo nevyhověl","splnil nebo nesplnil"],"correct":[1],"explanation":"Podle klíče b)."},
-  "49":{"text":"Při nevyhovujícím výsledku zkoušky z odborné způsobilosti může být zkouška opakována:","answers":["nejdříve za 12 měsíců","nejdříve za 6 měsíců","nejdříve za 15 dní od neúspěšného vykonání zkoušky"],"correct":[2],"explanation":"Podle klíče c)."},
-  "50":{"text":"Před zahájením zkoušky musí žadatel předložit předsedovi komise:","answers":["doklad o odborné nebo profesní kvalifikaci a doklad prokazující délku praxe","kopii dokladu o vzdělání, která nemusí být úředně ověřena","čestné prohlášení, že má odborné vzdělání odpovídající požadované kvalifikaci"],"correct":[0],"explanation":"Podle klíče a)."},
-  "51":{"text":"Před zahájením zkoušky musí žadatel předložit předsedovi komise:","answers":["doklad o zdravotní způsobilosti","potvrzení zaměstnavatele o délce praxe, nebo čestné prohlášení o praxi","výpis z trestního rejstříku"],"correct":[1],"explanation":"Podle klíče b)."}
+  "32": {"text":"Projektování vyhrazených elektrických zařízení, které není předmětem autorizace, může provádět:","answers":["vedoucí elektrotechnik","elektrotechnik","osoba poučená"],"correct":[0],"explanation":"Projektování vyžaduje vyšší úroveň odpovědnosti než samotná montáž nebo obsluha. Vedoucí elektrotechnik může projektovat v rozsahu, pro který není vyžadována autorizace podle stavebních předpisů."},
+  "33": {"text":"Učitelé, kteří používají při výuce na školách elektrická zařízení pod napětím, jsou v používání zařízení zaškoleni a jejich znalost je nejméně jednou za tři roky ověřována, se považují pro tuto činnost za:","answers":["osoby poučené","osoby s kvalifikací „elektrotechnik“","osoby s kvalifikací „vedoucí elektrotechnik“"],"correct":[1],"explanation":"Zvláštní pravidlo umožňuje považovat pravidelně přezkušované učitele při práci se školními elektrickými zařízeními za elektrotechniky, avšak pouze pro vymezenou výukovou činnost."},
+  "34": {"text":"Pracovníci výzkumných a vývojových ústavů, kteří mají vysokoškolské vzdělání, v rámci výuky složili zkoušky z elektrotechniky, elektroniky nebo fyziky a vykonávají experimentální práci na vymezených vědeckých nebo vývojových pracovištích, se považují v rámci těchto pracovišť za:","answers":["osoby s kvalifikací „elektrotechnik“","osoby s kvalifikací „vedoucí elektrotechnik“","osoby s kvalifikací „revizní technik“"],"correct":[0],"explanation":"Jejich odborné vzdělání a experimentální práce mohou nahradit běžnou kvalifikační cestu, ale jen na vymezeném výzkumném pracovišti. Nezískávají tím automaticky oprávnění řídit činnost ani provádět revize."},
+  "35": {"text":"Absolventi přírodovědecké fakulty vysoké školy v oboru fyziky, kteří pracují jako asistenti laboratoří škol všech stupňů a jejichž znalost je nejméně jednou za tři roky ověřována, se považují na svých pracovištích za:","answers":["osoby s kvalifikací „elektrotechnik“","osoby s kvalifikací „vedoucí elektrotechnik“","osoby s kvalifikací „revizní technik"],"correct":[1],"explanation":"Pravidelné ověřování znalostí a fyzikální vzdělání umožňuje asistentům řídit činnosti v jejich školní laboratoři. Toto postavení je omezené na dané pracoviště."},
+  "36": {"text":"Ověřování znalostí bezpečnostních předpisů souvisejících s činností učitelů, kteří používají při výuce na školách elektrická zařízení pod napětím, provede:","answers":["dvoučlenná zkušební komise","tříčlenná zkušební komise, jejímž předsedou musí být revizní technik","revizní technik samostatně, komise není nutná"],"correct":[1],"explanation":"Komise ověřuje, že učitel zná rizika práce pod napětím i bezpečný postup výuky. Revizní technik v čele komise zajišťuje potřebnou odbornou úroveň zkoušky."},
+  "37": {"text":"Osoba poučená může, pokud je to v souladu s místními provozními bezpečnostními předpisy, provádět:","answers":["práci podle pokynů na elektrických zařízeních do 1 kV pod napětím","práci s dohledem na elektrických zařízeních do 1 kV pod napětím","samostatnou obsluhu elektrických zařízení bez omezení napětí"],"correct":[2],"explanation":"Obsluha znamená používání prvků určených k ovládání, nikoli zásah do živých částí. Je-li osoba řádně poučena a místní předpis to dovoluje, může zařízení samostatně obsluhovat bez omezení jeho napěťové hladiny."},
+  "38": {"text":"Osoba poučená může, pokud je to v souladu s místními provozními bezpečnostními předpisy, provádět:","answers":["práci podle pokynů na elektrických zařízeních vysokého napětí bez napětí","práci s dohledem na elektrických zařízeních vysokého napětí bez napětí","práci s dohledem na elektrických zařízeních vysokého napětí pod napětím"],"correct":[1],"explanation":"U vysokého napětí nestačí pouhý pokyn. I na zařízení bez napětí potřebuje poučená osoba dohled znalé osoby, která může průběžně kontrolovat bezpečný postup."},
+  "39": {"text":"Ověření znalostí zkouškou pro práce na elektrickém zařízení provozovatele přenosové a distribuční soustavy může provést:","answers":["revizní technik samostatně (komise není nutná)","tříčlenná zkušební komise, jejímž předsedou musí být vždy revizní technik","tříčlenná zkušební komise, jejímž předsedou může být odpovědná osoba příslušného provozovatele s kvalifikací minimálně „vedoucí elektrotechnik“"],"correct":[2],"explanation":"Provozovatel soustavy zná vlastní zařízení a provozní pravidla. Jeho odpovědná osoba může proto vést tříčlennou komisi, má-li alespoň kvalifikaci vedoucího elektrotechnika."},
+  "40": {"text":"Osoby samostatně výdělečně činné:","answers":["potřebují doklad o odborné způsobilosti pouze při žádosti o živnost, pak již ne","si musí zajistit zkoušky odborné způsobilosti samy pro sebe","pro sebe nepotřebují zkoušky odborné způsobilosti"],"correct":[1],"explanation":"OSVČ nemá zaměstnavatele, který by přezkoušení organizoval. Musí proto sama zajistit platnou zkoušku a hlídat její obnovení, stejně jako zaměstnavatel u svých pracovníků."},
+  "41": {"text":"Doklad o úspěšném složení zkoušky odborné způsobilosti:","answers":["se již nevystavuje","vystavuje vždy dodatečně až zaměstnavatel, po předložení protokolu o zkoušce","vystavuje předseda zkušební komise"],"correct":[2],"explanation":"Předseda odpovídá za průběh a výsledek zkoušky, proto také vystavuje doklad. Ten musí odpovídat protokolu komise a vymezovat dosaženou způsobilost."},
+  "42":{"text":"Rozsah odborné způsobilosti se stanovuje podle:","answers":["věku uchazeče","rozsahu napětí – buď do 1 kV AC a 1,5 kV DC, nebo bez omezení napětí","druhu – buď v objektech bez nebezpečí výbuchu, nebo s nebezpečím výbuchu"],"correct":[1,2],"explanation":"Oprávnění se vymezuje napěťovou hladinou a prostředím. Technik pro běžné instalace do 1 kV bez nebezpečí výbuchu proto nemá automaticky oprávnění pro vysoké napětí nebo výbušné provozy."},
+  "43":{"text":"Minimální praxi pro osobu s kvalifikací „elektrotechnik“ stanoví:","answers":["odpovědná osoba v souladu s místním provozním bezpečnostním předpisem","tabulka v příloze nařízení vlády č. 194/2022 Sb.","vždy pouze předseda zkušební komise"],"correct":[0],"explanation":"Potřebná praxe závisí na konkrétní práci a rizicích provozu. Odpovědná osoba ji proto určí v místním bezpečnostním předpisu, například delší zapracování pro rozvodnu než pro běžnou údržbu."},
+  "44":{"text":"Pokud osoba s kvalifikací „elektrotechnik“ nemá žádnou praxi:","answers":["nemůže tuto kvalifikaci získat","musí po dobu nejméně 1 roku pracovat s dohledem osoby znalé, která má praxi minimálně 2 roky","nesmí provádět práce pod napětím"],"correct":[1],"explanation":"Začínající elektrotechnik získává praktické návyky pod dohledem zkušené znalé osoby. Roční dohled omezuje riziko, že bude sice znát předpisy, ale nebude umět bezpečně řešit reálné situace."},
+  "45":{"text":"Podle nařízení vlády č. 194/2022 Sb. jsou za osoby znalé považovány:","answers":["elektrotechnik – osoba znalá pro samostatnou činnost","vedoucí elektrotechnik – osoba znalá pro řízení činnosti","revizní technik"],"correct":[0,1,2],"explanation":"Osoby znalé tvoří tři stupně podle odpovědnosti: samostatná práce, řízení činnosti a odborné provádění revizí. Každý vyšší nebo specializovaný rozsah má další požadavky na praxi a zkoušku."},
+  "46":{"text":"Ústní pohovor při zkoušce z odborné způsobilosti k výkonu činností v elektrotechnice má být zaměřen:","answers":["na znalosti základů elektrotechniky v rozsahu středoškolského vzdělání","na výsledky testu a případně na chyby učiněné v testu","na odbornou problematiku podle rozsahu a zaměření zkoušené osoby"],"correct":[1,2],"explanation":"Komise při pohovoru rozebere chyby z testu a ověří praktické uvažování v oboru uchazeče. Montér instalací tak dostane jiné odborné situace než pracovník vysokého napětí."},
+  "47":{"text":"Osoba s kvalifikací „vedoucí elektrotechnik“ může vykonávat:","answers":["veškeré činnosti, které může vykonávat elektrotechnik","řízení činností, řízení provozu a projektování vyhrazených elektrických zařízení, které není předmětem autorizace","revize elektrických zařízení"],"correct":[0,1],"explanation":"Vedoucí elektrotechnik zahrnuje oprávnění elektrotechnika a navíc může řídit práci i provoz a v dovoleném rozsahu projektovat. Revize vyžaduje zvláštní kvalifikaci revizního technika."},
+  "48":{"text":"Výsledek zkoušky z odborné způsobilosti k výkonu činností v elektrotechnice se hodnotí stupněm:","answers":["uspěl nebo neuspěl","vyhověl nebo nevyhověl","splnil nebo nesplnil"],"correct":[1],"explanation":"Předpis používá jednotné hodnocení „vyhověl“ nebo „nevyhověl“. Stejný výraz se zapisuje do protokolu a určuje, zda lze vystavit doklad o způsobilosti."},
+  "49":{"text":"Při nevyhovujícím výsledku zkoušky z odborné způsobilosti může být zkouška opakována:","answers":["nejdříve za 12 měsíců","nejdříve za 6 měsíců","nejdříve za 15 dní od neúspěšného vykonání zkoušky"],"correct":[2],"explanation":"Patnáctidenní odstup dává uchazeči čas doplnit zjištěné mezery, aniž by musel čekat mnoho měsíců. Nové přezkoušení musí znovu ověřit požadovaný rozsah znalostí."},
+  "50":{"text":"Před zahájením zkoušky musí žadatel předložit předsedovi komise:","answers":["doklad o odborné nebo profesní kvalifikaci a doklad prokazující délku praxe","kopii dokladu o vzdělání, která nemusí být úředně ověřena","čestné prohlášení, že má odborné vzdělání odpovídající požadované kvalifikaci"],"correct":[0],"explanation":"Komise musí před zkouškou ověřit, že uchazeč splňuje vstupní podmínky vzdělání a praxe. Samotné čestné prohlášení nenahrazuje průkazné doklady."},
+  "51":{"text":"Před zahájením zkoušky musí žadatel předložit předsedovi komise:","answers":["doklad o zdravotní způsobilosti","potvrzení zaměstnavatele o délce praxe, nebo čestné prohlášení o praxi","výpis z trestního rejstříku"],"correct":[1],"explanation":"Délka praxe ovlivňuje možnost získat požadovaný stupeň kvalifikace. Zaměstnanec ji doloží potvrzením zaměstnavatele; osoba pracující samostatně ji může doložit čestným prohlášením."}
 }

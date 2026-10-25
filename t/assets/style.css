@@ -1,0 +1,129 @@
+:root {
+  color-scheme: light;
+  --ink: #171717;
+  --muted: #666;
+  --answer: #7b1616;
+  --note: #123b70;
+  --line: #d9d9d9;
+  --paper: #fffdfa;
+  --button: #222;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 18px; }
+
+body {
+  margin: 0;
+  background: #f1f1ef;
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.55;
+}
+
+.page {
+  width: min(100%, 760px);
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 18px 16px 32px;
+  background: var(--paper);
+}
+
+.finder {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 26px;
+}
+
+.finder input {
+  min-width: 0;
+  flex: 1;
+  border: 2px solid #777;
+  border-radius: 10px;
+  padding: 13px 14px;
+  font: inherit;
+  font-size: 1.1rem;
+}
+
+button, .nav-link {
+  border: 0;
+  border-radius: 10px;
+  padding: 13px 16px;
+  background: var(--button);
+  color: white;
+  font: inherit;
+  font-weight: 650;
+  text-decoration: none;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 18px;
+  font-size: 1.55rem;
+  line-height: 1.25;
+}
+
+.answers {
+  margin: 0 0 24px;
+  padding-left: 30px;
+}
+
+.answers li { margin: 9px 0; }
+
+.answers .correct {
+  color: var(--answer);
+  font-weight: 750;
+}
+
+.answer-title, .explanation-title {
+  margin: 24px 0 6px;
+  font-size: 1.05rem;
+}
+
+.correct-answer {
+  margin: 0;
+  color: var(--answer);
+  font-size: 1.18rem;
+  font-weight: 750;
+}
+
+.explanation { margin-top: 0; }
+
+.source-note {
+  margin: 22px 0 0;
+  padding: 14px 16px;
+  border-left: 5px solid var(--note);
+  border-radius: 4px;
+  background: #edf4fc;
+  color: var(--note);
+  font-weight: 600;
+}
+
+.question-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 22px auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.navigation {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 34px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.status { color: var(--muted); }
+.hidden { display: none; }
+
+@media (max-width: 390px) {
+  html { font-size: 18px; }
+  .page { padding-inline: 14px; }
+  .finder { flex-wrap: wrap; }
+  .finder input { flex-basis: 100%; }
+  .finder button { width: 100%; }
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <title>Testy elektrikář</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <main class="page">
+    <form class="finder" data-question-search>
+      <input data-question-number type="number" min="1" max="540" inputmode="numeric" placeholder="Číslo otázky" aria-label="Číslo otázky" required>
+      <button type="submit">Přejít</button>
+    </form>
+    <article data-question>
+      <h1 data-title>Načítám otázku…</h1>
+      <p data-text></p>
+      <ol class="answers" type="a" data-answers></ol>
+      <img class="question-image hidden" data-image alt="">
+      <h2 class="answer-title">Správná odpověď</h2>
+      <p class="correct-answer" data-correct></p>
+      <h2 class="explanation-title">Vysvětlení</h2>
+      <p class="explanation" data-explanation></p>
+      <p class="source-note hidden" data-source-note></p>
+      <nav class="navigation" aria-label="Navigace mezi otázkami">
+        <a class="nav-link" data-previous href="#">Předchozí</a>
+        <a class="nav-link" data-next href="#">Další</a>
+      </nav>
+    </article>
+  </main>
+  <script src="assets/app.js"></script>
+</body>
+</html>

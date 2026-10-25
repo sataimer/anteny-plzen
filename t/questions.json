@@ -1,0 +1,116 @@
+{
+  "1": {
+    "text": "Nařízení vlády č. 194/2022 Sb. stanovuje požadavky na odbornou způsobilost:",
+    "answers": [
+      "fyzických osob, které vykonávají obsluhu elektrických zařízení",
+      "fyzických osob, které vykonávají práci na elektrických zařízeních",
+      "fyzických osob, které se zabývají prodejem elektrických zařízení"
+    ],
+    "correct": [0, 1],
+    "explanation": "Nařízení upravuje odbornou způsobilost osob vykonávajících obsluhu elektrických zařízení a osob, které na elektrických zařízeních pracují. Prodej elektrických zařízení do tohoto vymezení nepatří."
+  },
+  "2": {
+    "text": "Nařízení vlády č. 194/2022 Sb. stanovuje požadavky na odbornou způsobilost:",
+    "answers": [
+      "osob, které se zabývají projektováním vyhrazených elektrických zařízení",
+      "pracovníků, kteří provádějí montážní práce bez vztahu k odborné způsobilosti v elektrotechnice",
+      "osob, které se zabývají řízením činnosti na vyhrazených elektrických zařízeních"
+    ],
+    "correct": [0, 2],
+    "explanation": "Předpis zahrnuje odbornou způsobilost v elektrotechnice, mimo jiné činnosti vedoucího elektrotechnika a projektování elektrických zařízení v rozsahu, který není předmětem autorizace podle jiného zákona. Obecně formulovaná montážní práce bez vazby na elektrotechnickou kvalifikaci není správnou možností."
+  },
+  "3": {
+    "text": "Nařízení vlády č. 194/2022 Sb. stanovuje požadavky na odbornou způsobilost a dále stanoví:",
+    "answers": [
+      "členění tříd pro ochranu v návaznosti na získanou kvalifikaci",
+      "postup při provádění zkoušky odborné způsobilosti a způsob jejího vyhodnocení",
+      "povinnosti předsedy zkušební komise"
+    ],
+    "correct": [0, 1, 2],
+    "explanation": "Nařízení vymezuje rozsahy odborné způsobilosti a upravuje také průběh zkoušek, jejich hodnocení a odpovědnost či povinnosti zkušební komise a jejího předsedy."
+  },
+  "4": {
+    "text": "Odborná způsobilost není vyžadována pro:",
+    "answers": [
+      "obsluhu elektrického zařízení malého napětí",
+      "opravy elektrického zařízení nízkého napětí",
+      "obsluhu elektrického zařízení nízkého napětí"
+    ],
+    "correct": [0, 2],
+    "explanation": "Běžná obsluha zařízení malého nebo nízkého napětí nevyžaduje elektrotechnickou odbornou způsobilost, pokud se osoba dotýká jen částí určených k obsluze a dodržuje návod. Oprava zařízení je práce na elektrickém zařízení a příslušnou způsobilost vyžaduje."
+  },
+  "5": {
+    "text": "Osoby školené (seznámené) jsou podle § 19 zákona č. 250/2021 Sb.:",
+    "answers": [
+      "osoby znalé",
+      "osoby, které nejsou znalé ani poučené, ale byly pro danou činnost zaškoleny",
+      "osoby poučené"
+    ],
+    "correct": [1, 2],
+    "explanation": "Podle fotografického klíče jsou označeny možnosti b) a c).",
+    "sourceNote": "V terminologii aktuálních předpisů je osoba poučená samostatnou kategorií s požadavky na poučení a ověření znalostí. Označení b) a c) proto může být terminologicky nejednoznačné. Pro studium zde zůstává zachován fotografický klíč."
+  },
+  "6": {
+    "text": "Školení osob školených (seznámených) podle § 19 zákona č. 250/2021 Sb. může provádět:",
+    "answers": [
+      "pouze revizní technik",
+      "minimálně elektrotechnik",
+      "zaměstnavatelem určená způsobilá osoba v souladu se zákoníkem práce"
+    ],
+    "correct": [0, 1, 2],
+    "explanation": "Podle fotografického klíče jsou označeny všechny tři možnosti.",
+    "sourceNote": "U běžného školení seznámených osob je podstatné pověření zaměstnavatelem a způsobilost školitele pro danou činnost. Tvrzení, že školit může pouze revizní technik nebo minimálně elektrotechnik, proto nemusí obecně platit; fotografický klíč je přesto zachován."
+  },
+  "7": {
+    "text": "§ 4 nařízení vlády č. 194/2022 Sb. stanovuje požadavky pro získání kvalifikace:",
+    "answers": [
+      "osob školených",
+      "osob poučených",
+      "osob znalých"
+    ],
+    "correct": [1, 2],
+    "explanation": "Podle fotografického klíče jsou označeny možnosti b) a c).",
+    "sourceNote": "§ 4 nařízení vlády č. 194/2022 Sb. je nadepsán „Osoba poučená“ a přímo upravuje osobu poučenou. Požadavky na osobu znalou jsou upraveny v dalších ustanoveních."
+  },
+  "8": {
+    "text": "Osoby poučené musí být organizací v rozsahu své činnosti také:",
+    "answers": [
+      "školeny o právních a ostatních předpisech k zajištění bezpečnosti a ochrany zdraví při práci pro činnost na elektrických zařízeních a v jejich blízkosti",
+      "pouze obecně seznámeny s první pomocí",
+      "seznámeny s postupy pro poskytnutí první pomoci při úrazech elektrickým proudem"
+    ],
+    "correct": [0, 2],
+    "explanation": "Poučená osoba musí být v rozsahu své činnosti školena o bezpečnostních předpisech a rizicích a musí znát konkrétní postupy první pomoci při úrazu elektrickým proudem. Pouhé obecné seznámení s první pomocí není dostatečné."
+  },
+  "9": {
+    "text": "Osoby poučené musí být organizací v rozsahu své činnosti také:",
+    "answers": [
+      "školeny v oblasti příčin a rizik na elektrických zařízeních",
+      "upozorněny na možné ohrožení elektrickými zařízeními",
+      "vždy vybaveny izolačními rukavicemi"
+    ],
+    "correct": [0, 1],
+    "explanation": "Součástí poučení je školení o zdrojích a příčinách rizik a upozornění na možné ohrožení. Povinné vybavení se určuje podle konkrétní práce a hodnocení rizik; izolační rukavice proto nejsou univerzální podmínkou každého poučení."
+  },
+  "10": {
+    "text": "Pro účely proškolení osob poučených (§ 4 nařízení vlády č. 194/2022 Sb.) se stanoví obsah a časový rozsah poučení. Aby mohl být výsledek ústní části zkoušky vyhodnocen stupněm „vyhověl“, musí mít zkoušený:",
+    "answers": [
+      "minimálně 50 % správných odpovědí",
+      "minimálně 70 % správných odpovědí",
+      "minimálně 80 % správných odpovědí"
+    ],
+    "correct": [1, 2],
+    "explanation": "Podle fotografického klíče jsou označeny hranice 70 % a 80 % správných odpovědí.",
+    "sourceNote": "Aktuální § 19 zákona č. 250/2021 Sb. uvádí pro hodnocení „vyhověl“ nejméně 80 % správných odpovědí. Hodnota 70 % se s tímto aktuálním zněním rozchází; na stránce je však zachováno fotografické označení obou možností."
+  },
+  "11": {
+    "text": "Organizace je povinna zajistit ověřování znalostí osob poučených:",
+    "answers": [
+      "vždy za čtyři roky",
+      "pouze jedenkrát; opakované ověřování není nutné",
+      "ve lhůtě stanovené v zápisu, nejdéle však po třech letech"
+    ],
+    "correct": [2],
+    "explanation": "Lhůta dalšího poučení a ověření znalostí se stanoví v zápisu podle charakteru činnosti a rizik. Nesmí být delší než tři roky."
+  }
+}

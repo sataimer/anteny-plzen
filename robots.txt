@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /t/
 Allow: /
 Sitemap: https://www.anteny-plzen.cz/sitemap.xml

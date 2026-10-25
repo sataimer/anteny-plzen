@@ -112,5 +112,108 @@
     ],
     "correct": [2],
     "explanation": "Lhůta dalšího poučení a ověření znalostí se stanoví v zápisu podle charakteru činnosti a rizik. Nesmí být delší než tři roky."
+  },
+  "12": {
+    "text": "Zápis o poučení a ověření znalostí osob poučených:",
+    "answers": [
+      "vyhotoví osoba znalá, která poučení a ověření provedla",
+      "podepisuje pouze osoba, která poučení provedla",
+      "musí podepsat osoba poučená i osoba, která poučení a ověření znalostí provedla"
+    ],
+    "correct": [0, 2],
+    "explanation": "Podle fotografického klíče zápis vyhotovuje osoba znalá, která poučení a ověření provedla, a podepisuje jej také poučená osoba."
+  },
+  "13": {
+    "text": "Poučení a ověření znalostí osob poučených pro práce na elektrických zařízeních provádí pověřená osoba, a to:",
+    "answers": [
+      "osoba znalá",
+      "osoba poučená",
+      "osoba školená (seznámená)"
+    ],
+    "correct": [0, 1],
+    "explanation": "Podle fotografického klíče jsou správné možnosti a) osoba znalá a b) osoba poučená.",
+    "sourceNote": "Podle § 4 nařízení vlády č. 194/2022 Sb. poučení a ověření znalostí provádí osoba znalá. Samotné označení „osoba poučená“ proto bez dalšího neznamená oprávnění poučovat jiné osoby; fotografický klíč je zachován."
+  },
+  "14": {
+    "text": "Kvalifikaci podle § 6 „elektrotechnik“ může získat po úspěšném složení předepsané zkoušky:",
+    "answers": [
+      "osoba, která dokončila alespoň pět roků z vysokoškolského studia oboru elektro",
+      "osoba, která má odbornou kvalifikaci (dokončené vzdělání) v oboru elektro",
+      "osoba, která má praxi stanovenou místním provozním bezpečnostním předpisem"
+    ],
+    "correct": [1, 2],
+    "explanation": "Fotografický klíč označuje odbornou kvalifikaci v oboru elektro a praxi určenou místním provozním bezpečnostním předpisem."
+  },
+  "15": {
+    "text": "Zaškolení a zkoušky osob s kvalifikací „elektrotechnik“:",
+    "answers": [
+      "si musí zajišťovat každý zaměstnanec sám",
+      "je povinna zajistit organizace, pro kterou „elektrotechnik“ vykonává činnosti",
+      "je povinen zajistit hlavní energetik organizace"
+    ],
+    "correct": [1],
+    "explanation": "Za zajištění zaškolení a zkoušky odpovídá organizace, pro kterou elektrotechnik činnost vykonává."
+  },
+  "16": {
+    "text": "Obsah a délku zaškolení pro osoby s kvalifikací „elektrotechnik“ stanoví organizace s ohledem na charakter a rozsah činností, kterou mají osoby vykonávat. Dále je organizace povinna:",
+    "answers": [
+      "určit minimálně jedenkrát za pět let přezkoušení",
+      "zajistit každý rok přezkoušení",
+      "zajistit nejméně jednou za tři roky přezkoušení"
+    ],
+    "correct": [2],
+    "explanation": "Fotografický klíč stanoví přezkoušení nejméně jednou za tři roky."
+  },
+  "17": {
+    "text": "Přezkoušení osob s kvalifikací „elektrotechnik“ provede:",
+    "answers": [
+      "tříčlenná zkušební komise, jejímž předsedou musí být revizní technik",
+      "externí přizvaná odborná znalá osoba, která má v předmětu podnikání zajišťování školení a zkoušení nebo ověřování znalostí",
+      "revizní technik samostatně, komise není nutná"
+    ],
+    "correct": [0, 1],
+    "explanation": "Podle fotografického klíče může přezkoušení provést tříčlenná komise vedená revizním technikem nebo přizvaná odborně znalá osoba s odpovídajícím předmětem podnikání.",
+    "sourceNote": "Nařízení vlády č. 194/2022 Sb. vyžaduje tříčlennou zkušební komisi; přizvaná odborně způsobilá osoba může být jejím členem, nikoli komisi sama nahradit. Fotografický klíč je zachován."
+  },
+  "18": {
+    "text": "Předseda zkušební komise:",
+    "answers": [
+      "nesmí pořídit o průběhu a obsahu zkoušky protokol",
+      "pořizuje o průběhu a obsahu zkoušky protokol",
+      "nemusí pořizovat žádný protokol o zkoušce"
+    ],
+    "correct": [1],
+    "explanation": "Předseda komise pořizuje protokol o průběhu a obsahu zkoušky."
+  },
+  "19": {
+    "text": "Osoby znalé jsou osoby, které splňují kvalifikaci podle těchto paragrafů nařízení vlády č. 194/2022 Sb.:",
+    "answers": [
+      "§ 6 („elektrotechnik“), § 7 („vedoucí elektrotechnik“), § 8 („revizní technik“)",
+      "§ 4 („osoba poučená“)",
+      "§ 3"
+    ],
+    "correct": [0],
+    "explanation": "Mezi osoby znalé patří elektrotechnik, vedoucí elektrotechnik a revizní technik."
+  },
+  "20": {
+    "text": "Vedoucí elektrotechnik (§ 7) musí před získáním této kvalifikace dokončit praxi na elektrických zařízeních:",
+    "answers": [
+      "bez ohledu na napětí minimálně 6 měsíců",
+      "do 1 000 V bez nebezpečí výbuchu min. 2 roky, s výbuchem min. 3 roky",
+      "nad 1 000 V, v objektech s nebezpečím výbuchu minimálně v délce 4 roky"
+    ],
+    "correct": [0, 1, 2],
+    "explanation": "Podle fotografického klíče jsou označeny všechny tři možnosti.",
+    "sourceNote": "Požadovaná délka praxe se podle § 7 odst. 2 nařízení vlády č. 194/2022 Sb. liší podle rozsahu: nejméně 2 roky pro rozsah E2A/E3A a nejméně 3 roky pro ostatní rozsahy. Obecná varianta 6 měsíců ani uvedené 4 roky tomuto znění neodpovídají; fotografický klíč je zachován."
+  },
+  "21": {
+    "text": "Přezkoušení osob s kvalifikací „vedoucí elektrotechnik“ provede:",
+    "answers": [
+      "nejméně čtyřčlenná zkušební komise",
+      "dvoučlenná zkušební komise, jejímž předsedou musí být revizní technik",
+      "tříčlenná zkušební komise, jejímž předsedou musí být revizní technik"
+    ],
+    "correct": [2],
+    "explanation": "Vedoucího elektrotechnika přezkušuje tříčlenná komise, jejímž předsedou je revizní technik."
   }
 }

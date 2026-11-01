@@ -57,9 +57,6 @@
       answers.appendChild(item);
     });
 
-    document.querySelector("[data-correct]").textContent = question.correct
-      .map((index) => `${String.fromCharCode(97 + index)}) ${question.answers[index]}`)
-      .join("; ");
     document.querySelector("[data-explanation]").textContent = question.explanation;
 
     const note = document.querySelector("[data-source-note]");

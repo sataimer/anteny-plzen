@@ -75,16 +75,9 @@ h1 {
   font-weight: 750;
 }
 
-.answer-title, .explanation-title {
+.explanation-title {
   margin: 24px 0 6px;
   font-size: 1.05rem;
-}
-
-.correct-answer {
-  margin: 0;
-  color: var(--answer);
-  font-size: 1.18rem;
-  font-weight: 750;
 }
 
 .explanation { margin-top: 0; }

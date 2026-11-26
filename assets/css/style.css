@@ -41,7 +41,21 @@
 
 .red-notice{color:#c1121f!important;font-weight:950}.red-notice-large{font-size:1.22rem;line-height:1.45;margin:16px 0}.photo-notice{font-size:1.08rem;line-height:1.35;margin:0;padding:0 18px 18px}.contact-card .red-notice-large{background:#fff5f5;border:1px solid #f5c2c7;border-radius:14px;padding:12px 14px}
 
-.frequency-nav{display:flex;flex-wrap:wrap;gap:.65rem;margin:0 0 1.25rem}
+.frequency-nav{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;margin:0 0 1.5rem}
+.frequency-nav--overview{gap:.65rem;padding-bottom:1rem;border-bottom:1px solid var(--line)}
+.frequency-nav a{
+  display:inline-flex;align-items:center;min-width:0;min-height:2.65rem;max-width:100%;
+  padding:.45rem .8rem;border:1px solid #d9dee6;border-radius:.65rem;background:#fff;
+  color:var(--ink);font-size:.88rem;font-weight:700;line-height:1.3;text-decoration:none
+}
+.frequency-nav--overview a{background:var(--ink);border-color:var(--ink);color:#fff}
+.frequency-nav--overview a:hover{background:var(--dark2);border-color:var(--dark2)}
+.frequency-nav--filter a:hover{background:#fff8cf;border-color:#d5b83a}
+.frequency-nav a:focus-visible{outline:2px solid #845f00;outline-offset:2px}
 .frequency-nav + .note-box{margin-bottom:1.5rem}
+@media(max-width:520px){
+  .frequency-nav{gap:.45rem}
+  .frequency-nav a{padding:.45rem .65rem}
+}
 .freq-table .region-row th{background:#fff8cf;color:#4b3b00;white-space:normal}
 .freq-mux-card[id],.mux-card[id]{scroll-margin-top:7rem}
